@@ -1,2 +1,2 @@
-# sarfaraz.github.com
+# sarfaraz.github.io
 Sarfaraz Jamal - Portfolio
